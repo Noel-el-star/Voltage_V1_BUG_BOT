@@ -20,10 +20,11 @@
 
 11. termux-setup-storage
 
-12 git clone https://github.com/VoltageLord/Voltage_V1_BUG_BOT 
+12 git clone https://github.com/Noel-el-star/Voltage_V1_BUG_BOT
 
 12. cd Voltage_V1_BUG_BOT 
 
 14. yarn install
 
 15. npm start
+
